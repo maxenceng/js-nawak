@@ -1,0 +1,10 @@
+{
+  "name": "js-nawak",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start:demo": "nodemon demo.js"
+  }
+}
